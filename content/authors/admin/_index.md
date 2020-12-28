@@ -14,7 +14,7 @@ organizations:
   url: https://ukdri.ac.uk/team/karen-duff
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the application of bioinformatics to study neurological disorders.
+bio: I am a PhD student at UCL investigating neurodegenerative disease using bioinformatic methods.
 
 # Interests to show in About widget
 interests:
