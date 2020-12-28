@@ -1,39 +1,38 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Emir Turkes
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student in Neuroscience
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Duff Lab at University College London
+  url: https://ukdri.ac.uk/team/karen-duff
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include the application of bioinformatics to study neurological disorders.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Pathogenesis and genetic risk factors of tauopathies such as Alzheimer's Disease
+- Single-cell/spatial omics methods development and analysis
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Neuroscience
+    institution: University College London
+    year: 2019-Present
+  - course: MS in Health Sciences
+    institution: The University of Tokyo
+    year: 2016-2018
+  - course: BA in Neuroscience
+    institution: Boston University
+    year: 2011-2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,16 +44,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/EmirTurkes1
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.researchgate.net/profile/Emir-Turkes
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/eturkes
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/eturkes/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -64,14 +63,15 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "emir.turkes@eturkes.com"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
+I am a PhD candidate under the supervision of Prof. Karen E. Duff at University College London, investigating the basis of tauopathies such as Alzheimer's Disease using bioinformatic approaches.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+In my past work, I analyzed fMRI data from the Human Connectome Project with the Boston University Speech Lab to further refine the DIVA model of speech. And for my Master's research at The University of Tokyo, I performed behavioral phenotyping of a novel mouse model of autism using Intellicage, an automated home cage system.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In my spare time, I am passionate about music and especially electric guitar. I also try to engage in community outreach with the support of Rotary International, having been a Rotary Scholar in Japan and a member of clubs in my area.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
