@@ -74,4 +74,4 @@ In my past work, I analyzed fMRI data from the Human Connectome Project with the
 
 In my spare time, I am passionate about music and especially electric guitar. I also try to engage in community outreach with the support of Rotary International, having been a Rotary Scholar in Japan and a member of clubs in my area.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/emir-turkes-cv.pdf" "newtab" >}}CV{{< /staticref >}} or {{< staticref "media/emir-turkes-resume.pdf" "newtab" >}}resume{{< /staticref >}}.
