@@ -70,7 +70,7 @@ highlight_name: true
 ---
 I am a PhD candidate under the supervision of Prof. Karen E. Duff at University College London, investigating the basis of tauopathies such as Alzheimer's Disease using bioinformatic approaches.
 
-In my past work, I analyzed fMRI data from the Human Connectome Project with the Boston University Speech Lab to further refine the DIVA model of speech. And for my Master's research at The University of Tokyo, I performed behavioral phenotyping of a novel mouse model of autism using Intellicage, an automated home cage system.
+In my past work, I analyzed fMRI data from the Human Connectome Project with the Boston University Speech Lab to further refine the DIVA model of speech. For my Master's research at The University of Tokyo, I performed behavioral phenotyping of a novel mouse model of autism using Intellicage, an automated home cage system.
 
 In my spare time, I am passionate about music and especially electric guitar. I also try to engage in community outreach with the support of Rotary International, having been a Rotary Scholar in Japan and a member of clubs in my area.
 
