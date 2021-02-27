@@ -68,10 +68,10 @@ email: "emir.turkes@eturkes.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a PhD candidate under the supervision of Prof. Karen E. Duff at University College London, investigating the basis of tauopathies such as Alzheimer's Disease using bioinformatic approaches.
+I am a PhD candidate in the lab of Professor Karen Duff at University College London, investigating the basis of tauopathies such as Alzheimer's Disease using bioinformatic approaches.
 
-As an undergraduate student at Boston University, I majored in neuroscience and helped analyze fMRI data from the Human Connectome Project to further refine the DIVA model of speech. I followed this with a Master's degree from The University of Tokyo, where I focused on behavioral phenotyping of a novel mouse model of autism using Intellicage, an automated home cage system.
+As an undergraduate student at Boston University, I majored in neuroscience and helped analyze fMRI data from the Human Connectome Project to further refine the DIVA model of speech. Afterward, I pursued Master's degree at The University of Tokyo, and wrote my thesis on the behavioral phenotyping of a novel mouse model of autism using Intellicage, an automated home cage system.
 
-In my spare time, I am passionate about music, especially electric guitar. I also try to engage in community outreach with the support of Rotary International, and pursued my studies in Japan under a Rotary scholarship.
+In my spare time, I enjoy playing electric guitar and exploring new music. I also try to engage in community outreach with the support of Rotary International, and pursued my studies in Japan under a Rotary scholarship.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/emir-turkes-cv.pdf" "newtab" >}}CV{{< /staticref >}} or {{< staticref "media/emir-turkes-resume.pdf" "newtab" >}}resume{{< /staticref >}}.
