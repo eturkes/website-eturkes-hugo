@@ -1,5 +1,6 @@
 # IDEs
 .idea/
+assets/jsconfig.json
 
 # Hugo
 /resources/
