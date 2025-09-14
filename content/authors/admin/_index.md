@@ -14,7 +14,7 @@ organizations:
   url: https://ukdri.ac.uk/team/karen-duff
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student at UCL investigating neurodegenerative disease using bioinformatic methods.
+bio: I am a PhD graduate from UCL having researched neurodegenerative disease using bioinformatic methods.
 
 # Interests to show in About widget
 interests:
@@ -26,7 +26,7 @@ education:
   courses:
   - course: PhD in Neuroscience
     institution: University College London
-    year: 2019-Present
+    year: 2019-2025
   - course: MS in Health Sciences
     institution: The University of Tokyo
     year: 2016-2018
@@ -44,10 +44,10 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/EmirTurkes1
+  link: https://twitter.com/quietlywander
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=vSORSGkAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=IIat3ncAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/eturkes
@@ -68,10 +68,10 @@ email: "emir.turkes@eturkes.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a PhD candidate in the lab of Professor Karen Duff at University College London, investigating the basis of tauopathies such as Alzheimer's Disease using bioinformatic approaches.
+I am a PhD graduate from the lab of Professor Karen E. Duff at University College London, having researched the basis of tauopathies such as Alzheimer's Disease using bioinformatic approaches.
 
 As an undergraduate student at Boston University, I majored in neuroscience and helped analyze fMRI data from the Human Connectome Project to further refine the DIVA model of speech. Afterward, I pursued Master's degree at The University of Tokyo, and wrote my thesis on the behavioral phenotyping of a novel mouse model of autism using Intellicage, an automated home cage system.
 
 In my spare time, I enjoy playing electric guitar and exploring new music. I also try to engage in community outreach with the support of Rotary International, and pursued my studies in Japan under a Rotary scholarship.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/emir-turkes-cv.pdf" "newtab" >}}CV{{< /staticref >}} or {{< staticref "media/emir-turkes-resume.pdf" "newtab" >}}resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/emir-turkes-cv.pdf" "newtab" >}}CV{{< /staticref >}}
