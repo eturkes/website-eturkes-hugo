@@ -74,4 +74,4 @@ As an undergraduate student at Boston University, I majored in neuroscience and 
 
 In my spare time, I enjoy playing electric guitar and exploring new music. I also try to engage in community outreach with the support of Rotary International, and pursued my studies in Japan under a Rotary scholarship.
 
-{{< icon name="download" pack="fas" >}}Download my {{< staticref "media/emir-turkes-cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+Download my {{< staticref "media/emir-turkes-cv.pdf" "newtab" >}}CV{{< /staticref >}}
