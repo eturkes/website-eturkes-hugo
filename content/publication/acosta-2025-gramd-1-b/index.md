@@ -15,8 +15,7 @@ authors:
 - ' others'
 date: '2025-01-01'
 publishDate: '2025-09-15T08:37:10.689396Z'
-publication_types:
-- article-journal
+publication_types: ["2"]
 publication: '*Nature communications*'
 doi: 10.1038/s41467-025-58585-w
 ---

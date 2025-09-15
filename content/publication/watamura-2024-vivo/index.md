@@ -15,8 +15,7 @@ authors:
 - ' others'
 date: '2024-01-01'
 publishDate: '2025-09-15T08:37:10.697567Z'
-publication_types:
-- article-journal
+publication_types: ["2"]
 publication: '*Nature Neuroscience*'
 doi: 10.1038/s41593-024-01829-7
 ---

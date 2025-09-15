@@ -15,8 +15,7 @@ authors:
 - ' others'
 date: '2025-01-01'
 publishDate: '2025-09-15T08:37:10.708316Z'
-publication_types:
-- article-journal
+publication_types: ["2"]
 publication: '*bioRxiv*'
 doi: 10.1101/2025.07.11.664346
 ---
